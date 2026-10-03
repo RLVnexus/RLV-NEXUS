@@ -1,0 +1,6 @@
+{
+  "name": "RLV Nexus - Digital Solutions & Unified Client Dashboard",
+  "description": "Comprehensive digital service solutions platform uniting software engineering, digital ads marketing, OTP/SMS/WhatsApp/Email gateways, video editing, and real-time client performance tracking with automated reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
